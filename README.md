@@ -4,12 +4,12 @@
 
 I am Jason Lee ! 
 
-A Korean guy currently living in Vancouver Canada!
+A Korean guy currently living in Vancouver, Canada!
 
-Fisrt day of studying programming was Oct 2020.
+The first day of studying programming was Oct 2020.
 
-As I have different job, I am a part-time student of it.   
-Might be slow, but never stop👨‍💻✍✊
+As I have a different job, I am a part-time programming student.   
+I might be slow, but never stop👨‍💻✍✊
 <br><br><br>
 ### "The only difference between dreams and achievements is hard work" - Chris Bollwage
 
