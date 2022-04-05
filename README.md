@@ -25,6 +25,8 @@ I might be slow, but never stop👨‍💻✍✊
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
 <img src="https://icongr.am/devicon/java-original.svg?size=40&color=currentColor" alt="java" width="40" height="40"/> </a> </p>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gggabikr&show_icons=true&locale=en&layout=compact" alt="gggabikr" /></p>
+<img src="https://icongr.am/devicon/php-original.svg?size=40&color=currentColor" alt="php" width="40" height="40"/> </a> </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gggabikr&show_icons=true&locale=en&layout=compact" alt="gggabikr" /></p>
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gggabikr&show_icons=true&locale=en" alt="gggabikr" /></p><br>
 
