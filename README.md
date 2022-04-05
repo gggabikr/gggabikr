@@ -29,7 +29,7 @@ I might be slow, but never stop👨‍💻✍✊
 <img src="https://icongr.am/devicon/mysql-original-wordmark.svg?size=128&color=currentColor" alt="php" width="40" height="40"/> </a> </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gggabikr&show_icons=true&locale=en&layout=compact" alt="gggabikr" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gggabikr&show_icons=true&locale=en&layout=compact" alt="gggabikr" /></p>
+
 
 <br>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gggabikr&show_icons=true&locale=en" alt="gggabikr" /></p><br>
